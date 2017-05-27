@@ -1,0 +1,9 @@
+code convention
+unit test
+database: SQL or NoSQL
+config server
+best practice
+all library documents: String, Array, ...
+security
+check performance-benchmarking
+debug and deploy
